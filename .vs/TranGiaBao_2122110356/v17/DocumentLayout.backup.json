@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\trangiabao_2122110356.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\trangiabao_2122110356.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\trangiabao_2122110356.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\trangiabao_2122110356.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +50,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TranGiaBao_2122110356.csproj",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj",
+              "RelativeToolTip": "TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T08:02:07.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TranGiaBao_2122110356\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:00:29.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\WeatherForecast.cs",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\WeatherForecast.cs",
+              "RelativeToolTip": "TranGiaBao_2122110356\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:41:33.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TranGiaBao_2122110356.http",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\TranGiaBao_2122110356.http",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\TranGiaBao_2122110356.http",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\TranGiaBao_2122110356.http",
+              "RelativeToolTip": "TranGiaBao_2122110356\\TranGiaBao_2122110356.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-28T07:41:27.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\appsettings.Development.json",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\appsettings.Development.json",
+              "RelativeToolTip": "TranGiaBao_2122110356\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T07:41:20.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TranGiaBao_2122110356\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:22:57.965Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\appsettings.json",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\appsettings.json",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\appsettings.json*",
+              "RelativeToolTip": "TranGiaBao_2122110356\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T07:33:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TranGiaBao_2122110356\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T07:33:25.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Program.cs",
               "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Program.cs",
               "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Program.cs",
               "RelativeToolTip": "TranGiaBao_2122110356\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T06:50:49.711Z",
               "EditorCaption": ""
@@ -43,24 +168,11 @@
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Model\\Product.cs",
               "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Model\\Product.cs",
-              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Model\\Product.cs",
-              "RelativeToolTip": "TranGiaBao_2122110356\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Model\\Product.cs*",
+              "RelativeToolTip": "TranGiaBao_2122110356\\Model\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T06:50:21.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "TranGiaBao_2122110356\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:47:59.457Z",
               "EditorCaption": ""
             }
           ]
