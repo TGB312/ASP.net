@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|d:\\tat ca mon hoc\\asp\\trangiabao_2122110356\\trangiabao_2122110356\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958128A9-6595-43F9-95CE-4E9DFE30C613}|TranGiaBao_2122110356\\TranGiaBao_2122110356.csproj|solutionrelative:trangiabao_2122110356\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Program.cs",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Program.cs",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Program.cs",
+              "RelativeToolTip": "TranGiaBao_2122110356\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:50:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Model\\Product.cs",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Model\\Product.cs",
+              "RelativeToolTip": "TranGiaBao_2122110356\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:50:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TranGiaBao_2122110356\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Tat ca mon hoc\\ASP\\TranGiaBao_2122110356\\TranGiaBao_2122110356\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TranGiaBao_2122110356\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:47:59.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@TranGiaBao_2122110356_HostAddress = http://localhost:5183
+
+GET {{TranGiaBao_2122110356_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
