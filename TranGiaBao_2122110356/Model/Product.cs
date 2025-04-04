@@ -7,7 +7,12 @@
         public string Image { get; set; }
         public double Price { get; set; }
 
-        
+        public string Description { get; set; }
+        // Foreign Key to Category
+        public int CategoryId { get; set; }
+
+        // Navigation Property to Category
+        public Category Category { get; set; }
     }
 
 }

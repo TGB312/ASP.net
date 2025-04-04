@@ -7,6 +7,9 @@ namespace TranGiaBao_2122110356.Data // Đảm bảo namespace khớp với proj
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        public DbSet<Product> Products { get; set; } // Đảm bảo có ít nhất một DbSet
+        public DbSet<Product> Products { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
+
     }
 }
