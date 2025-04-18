@@ -11,5 +11,22 @@ namespace TranGiaBao_2122110356.Data // Đảm bảo namespace khớp với proj
 
         public DbSet<Category> Categories { get; set; }
 
+        public DbSet<User> Users { get; set; }
+
+        public DbSet<Order> Orders { get; set; }
+
+        public DbSet<OrderDetail> OrderDetails { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Product>()
+                .HasOne(p => p.Category)
+
+                .WithMany(c => c.Products)
+                .HasForeignKey(p => p.CategoryId);
+
+            base.OnModelCreating(modelBuilder);
+        }
+
     }
 }

@@ -1,0 +1,143 @@
+.product-admin {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: 0 auto 20px;
+  gap: 10px;
+}
+
+.form-group input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.form-group button {
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  background-color: #28a745;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-group button:hover {
+  background-color: #218838;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.product-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.product-table th, .product-table td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+.product-table th {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.product-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.product-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+.product-table img {
+  max-width: 60px;
+  border-radius: 5px;
+}
+
+.product-table button {
+  padding: 8px 12px;
+  font-size: 14px;
+  border: none;
+  background-color: #ffc107;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.product-table button:nth-child(1) {
+  background-color: #007bff;
+}
+
+.product-table button:nth-child(1):hover {
+  background-color: #0056b3;
+}
+
+.product-table button:nth-child(2) {
+  background-color: #dc3545;
+}
+
+.product-table button:nth-child(2):hover {
+  background-color: #c82333;
+}
+
+.product-table td button {
+  margin: 5px 0;
+}
+
+@media (max-width: 768px) {
+  .product-admin {
+    padding: 15px;
+  }
+
+  .form-group {
+    width: 100%;
+  }
+
+  .product-table th, .product-table td {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .product-table img {
+    width: 50px;
+  }
+
+  .form-group input, .form-group button {
+    font-size: 14px;
+  }
+}

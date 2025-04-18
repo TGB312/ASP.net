@@ -11,8 +11,7 @@
         // Foreign Key to Category
         public int CategoryId { get; set; }
 
-        // Navigation Property to Category
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
     }
 
 }
