@@ -41,8 +41,13 @@ namespace TranGiaBao_2122110356.Controllers
         [HttpPost]
         public async Task<ActionResult<Category>> PostCategory(Category category)
         {
+            // Nếu không có ảnh, đặt giá trị ảnh thành null
+            if (string.IsNullOrEmpty(category.Image))
+            {
+                category.Image = null;
+            }
             _context.Categories.Add(category);
-            await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();  
 
             return CreatedAtAction(nameof(GetCategory), new { id = category.Id }, category);
         }

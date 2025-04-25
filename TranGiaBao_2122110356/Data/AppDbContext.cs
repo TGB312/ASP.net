@@ -26,6 +26,8 @@ namespace TranGiaBao_2122110356.Data // Đảm bảo namespace khớp với proj
                 .HasForeignKey(p => p.CategoryId);
 
             base.OnModelCreating(modelBuilder);
+
+
         }
 
     }

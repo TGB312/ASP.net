@@ -167,3 +167,4 @@ D:\Tat ca mon hoc\ASP\TranGiaBao_2122110356\TranGiaBao_2122110356\obj\Debug\net8
 D:\Tat ca mon hoc\ASP\TranGiaBao_2122110356\TranGiaBao_2122110356\obj\Debug\net8.0\TranGiaBao_2122110356.pdb
 D:\Tat ca mon hoc\ASP\TranGiaBao_2122110356\TranGiaBao_2122110356\obj\Debug\net8.0\TranGiaBao_2122110356.genruntimeconfig.cache
 D:\Tat ca mon hoc\ASP\TranGiaBao_2122110356\TranGiaBao_2122110356\obj\Debug\net8.0\ref\TranGiaBao_2122110356.dll
+D:\Tat ca mon hoc\ASP\TranGiaBao_2122110356\TranGiaBao_2122110356\bin\Debug\net8.0\TranGiaBao_2122110356.staticwebassets.runtime.json

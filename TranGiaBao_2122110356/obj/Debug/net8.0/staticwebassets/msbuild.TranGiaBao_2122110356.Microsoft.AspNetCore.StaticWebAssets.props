@@ -1,0 +1,212 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\00d53d96-0231-4ec4-a62d-a03f264856a8_Ảnh chụp màn hình 2025-04-25 123743.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/00d53d96-0231-4ec4-a62d-a03f264856a8_Ảnh chụp màn hình 2025-04-25 123743.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\00d53d96-0231-4ec4-a62d-a03f264856a8_Ảnh chụp màn hình 2025-04-25 123743.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0b6c79ef-9537-49a0-9581-e2a2df410ed6_Ảnh chụp màn hình 2025-04-25 123509.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/0b6c79ef-9537-49a0-9581-e2a2df410ed6_Ảnh chụp màn hình 2025-04-25 123509.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0b6c79ef-9537-49a0-9581-e2a2df410ed6_Ảnh chụp màn hình 2025-04-25 123509.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0d935d28-6fa9-4ced-9c12-681a3560c80e_Ảnh chụp màn hình 2025-04-25 123919.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/0d935d28-6fa9-4ced-9c12-681a3560c80e_Ảnh chụp màn hình 2025-04-25 123919.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0d935d28-6fa9-4ced-9c12-681a3560c80e_Ảnh chụp màn hình 2025-04-25 123919.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\24b17124-6006-4b1f-bc87-3c37d052bf77_Ảnh chụp màn hình 2025-04-23 075246.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/24b17124-6006-4b1f-bc87-3c37d052bf77_Ảnh chụp màn hình 2025-04-23 075246.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\24b17124-6006-4b1f-bc87-3c37d052bf77_Ảnh chụp màn hình 2025-04-23 075246.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\52ae53dd-f3dd-46d0-ba52-951f31ec32dc_Ảnh chụp màn hình 2025-03-26 063346.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/52ae53dd-f3dd-46d0-ba52-951f31ec32dc_Ảnh chụp màn hình 2025-03-26 063346.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\52ae53dd-f3dd-46d0-ba52-951f31ec32dc_Ảnh chụp màn hình 2025-03-26 063346.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5f209a45-b4c5-4d8a-a4ac-69a979d593c9_Ảnh chụp màn hình 2025-04-25 123547.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/5f209a45-b4c5-4d8a-a4ac-69a979d593c9_Ảnh chụp màn hình 2025-04-25 123547.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5f209a45-b4c5-4d8a-a4ac-69a979d593c9_Ảnh chụp màn hình 2025-04-25 123547.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5f63b6b8-f61b-4b36-845a-be9b16d76705_IMG_2570.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/5f63b6b8-f61b-4b36-845a-be9b16d76705_IMG_2570.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5f63b6b8-f61b-4b36-845a-be9b16d76705_IMG_2570.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7a7a9d86-283c-4a32-ad3b-9136f6ea4d1a_Ảnh chụp màn hình 2025-04-25 123643.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/7a7a9d86-283c-4a32-ad3b-9136f6ea4d1a_Ảnh chụp màn hình 2025-04-25 123643.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7a7a9d86-283c-4a32-ad3b-9136f6ea4d1a_Ảnh chụp màn hình 2025-04-25 123643.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7ac5dc9d-5528-4f1a-9a70-26aa20d74973_z6513306822886_1aa7a2481590845a2d3c70e7538c48f8 - Sao chép.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/7ac5dc9d-5528-4f1a-9a70-26aa20d74973_z6513306822886_1aa7a2481590845a2d3c70e7538c48f8 - Sao chép.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7ac5dc9d-5528-4f1a-9a70-26aa20d74973_z6513306822886_1aa7a2481590845a2d3c70e7538c48f8 - Sao chép.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a605823d-ddf4-4d08-b8d3-a44897c4449c_Ảnh chụp màn hình 2025-04-25 123820.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/a605823d-ddf4-4d08-b8d3-a44897c4449c_Ảnh chụp màn hình 2025-04-25 123820.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a605823d-ddf4-4d08-b8d3-a44897c4449c_Ảnh chụp màn hình 2025-04-25 123820.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2a53366-332f-4233-96d6-92f9c1397e1d_Ảnh chụp màn hình 2025-04-25 123618.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/b2a53366-332f-4233-96d6-92f9c1397e1d_Ảnh chụp màn hình 2025-04-25 123618.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2a53366-332f-4233-96d6-92f9c1397e1d_Ảnh chụp màn hình 2025-04-25 123618.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d1520509-619c-4381-8aad-9ed552964fc3_Ảnh chụp màn hình 2025-04-25 123218.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/d1520509-619c-4381-8aad-9ed552964fc3_Ảnh chụp màn hình 2025-04-25 123218.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d1520509-619c-4381-8aad-9ed552964fc3_Ảnh chụp màn hình 2025-04-25 123218.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e7bc5fd9-2868-4627-b303-c1f357fca279_Ảnh chụp màn hình 2025-04-25 123948.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TranGiaBao_2122110356</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TranGiaBao_2122110356</BasePath>
+      <RelativePath>uploads/e7bc5fd9-2868-4627-b303-c1f357fca279_Ảnh chụp màn hình 2025-04-25 123948.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e7bc5fd9-2868-4627-b303-c1f357fca279_Ảnh chụp màn hình 2025-04-25 123948.png))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TranGiaBao_2122110356")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+624b8414b9a98a386492b9cff4115ea25619262e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88f52c926f3970f2a989832e1ad3af66d75067f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TranGiaBao_2122110356")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TranGiaBao_2122110356")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
